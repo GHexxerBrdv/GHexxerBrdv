@@ -33,3 +33,10 @@
 | Proof of work                                                                  | Description                                                                                                                                       | Technologies                                  |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
 | [Audit-Reports](https://github.com/GHexxerBrdv/Audit-Reports.git)               |    Smart contract audit reports from competitive audits platforms                                                                               | Solidity, Foundry, slither, aderyn                           |
+
+## Back-end development
+
+| Proof of work                                                                  | Description                                                                                                                                       | Technologies                                  |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| [E-commerce](https://github.com/GHexxerBrdv/E-Commerce-API.git)               |    Developed core API's for an E-Commerce project                                                                               | NodeJs, ExpressJs, MongoDB                           |
+| [Blog](https://github.com/GHexxerBrdv/Blog-API.git)               |    Developed core API's for a Blog webapp project                                                                               | NodeJs, ExpressJs, MongoDB                           |
