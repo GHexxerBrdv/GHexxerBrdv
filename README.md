@@ -26,7 +26,6 @@
 | [EIP-4337-AA](https://github.com/GHexxerBrdv/EIP-4337-AA.git)        | Implemented smart contract account (Account Abstraction) also known as EIP4337 and tested it.                      | solidity, Foundry, account-abstraction     
 | [Ethernaut](https://github.com/GHexxerBrdv/Ethernaut.git)        | Openzeppelin's Ethernaut challenges (Ongoing)                     | solidity, Foundry, openzeppelin     
 | [Upgradeable-proxy](https://github.com/GHexxerBrdv/Upgrade-Proxy.git)        | Created minimalistic implementation of all the upgreadable proxy pattern for smart contracts (Open Source)(Ongoing)                     | solidity, Foundry  
-
 | [Aadhar-Voting](https://github.com/GHexxerBrdv/Aadhar-Voting.git)        | Created A voting system build on evm competible blockchain that allows user to vote openly and in decentralized manner                     | solidity, Foundry   
 
 
