@@ -39,7 +39,8 @@
 
 | Proof of work                                                                  | Description                                                                                                                                       | Technologies                                  |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| [To_Do_Manager](https://github.com/GHexxerBrdv/To_Do_Manager.git)               |    Developed an advace ToDo manager cli tool, that employes user defined data types, error handling, control flow and modules                                                                               | Rust                           |
+| [Task_Manager](https://github.com/GHexxerBrdv/Task_manager.git)               |    Developed an advace ToDo manager cli tool, that employes user defined data types, error handling, control flow and modules, allows user to add task via command line by only typing commands                                                                               | Rust, serde, colored, clap                           |
+| [Dig](https://github.com/GHexxerBrdv/Dig.git)               |    Dig is a simplified CLI tool that is same as grep in linux                                                                               | Rust, clap, colored, regex                           |
 
 
 ## Back-end development
