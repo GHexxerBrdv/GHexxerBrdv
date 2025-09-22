@@ -40,7 +40,9 @@
 | Proof of work                                                                  | Description                                                                                                                                       | Technologies                                  |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
 | [Task_Manager](https://github.com/GHexxerBrdv/Task_manager.git)               |    Developed an advace ToDo manager cli tool, that employes user defined data types, error handling, control flow and modules, allows user to add task via command line by only typing commands                                                                               | Rust, serde, colored, clap                           |
-| [Dig](https://github.com/GHexxerBrdv/Dig.git)               |    Dig is a simplified CLI tool that is same as grep in linux                                                                               | Rust, clap, colored, regex                           |
+| [Dig](https://github.com/GHexxerBrdv/Dig.git)               |    Dig is a simplified CLI tool that will find the content from the mentioned file and print them                                                                                | Rust, clap, colored, regex                           |
+| [brdv](https://github.com/GHexxerBrdv/brdv.git)               |    brdv is git like tool that will help you to manage your projects (Early stage)                                                                               | Rust, clap                           |
+| [redis_lite](https://github.com/GHexxerBrdv/redis_lite.git)               |    redish_lite is redis like tool that will continuosly accepts the client requests and store data in key value form in local file (Early stage)                                                                              | Rust, serde, tokio                           |
 
 
 ## Back-end development
