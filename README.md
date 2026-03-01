@@ -26,7 +26,7 @@
 
 | Proof of work                                                                  | Description                                                                                                                                       | Technologies                                  |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| [Token-0x]()        | A Base ERC20 implementation focusing on gas optimised operations and security, developed in inline assembly                      | solidity, Yul, Foundry  
+| [Token-0x](https://github.com/GHexxerBrdv/Token-0x.git)        | A Base ERC20 implementation focusing on gas optimised operations and security, developed in inline assembly                      | solidity, Yul, Foundry  
 | [EIP-4337-AA](https://github.com/GHexxerBrdv/EIP-4337-AA.git)        | Implemented smart contract account (Account Abstraction) also known as EIP4337 and tested it.                      | solidity, Foundry, account-abstraction  
 | [Upgradeable-proxy](https://github.com/GHexxerBrdv/Upgrade-Proxy.git)        | Created minimalistic implementation of all the upgreadable proxy pattern for smart contracts (Open Source)                     | solidity, Foundry 
 | [Horse-With-Corn](https://github.com/GHexxerBrdv/Horse-With-Corn.git)               |    Horse-With-Corn, a minimal clone of UniswapV2                                                                               | Solidity, Foundry 
