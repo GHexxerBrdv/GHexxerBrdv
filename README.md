@@ -82,8 +82,8 @@
 </p> -->
 
 <!-- VISITOR COUNTER - Glowing -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GHexxerBrdv&label=🔮_VISITORS&color=00FFEA&style=flat-square" />
   <br>
   <i style="color: #00FFEA;">⚡ // SYSTEMS ONLINE // CODE EXECUTING // ⚡</i>
-</p>
+</p> -->
