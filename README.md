@@ -1,6 +1,6 @@
 <!-- NEON GLOW HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=500&color=00FFEA&center=true&vCenter=true&width=600&height=70&lines=//+SYSTEM+BOOTED;%3E+HELLO%2C+THIS+IS+GB-53F8;%3E+CRAFTING+THE+FUTURE;%3E+BLOCKCHAIN+%7C+CLOUD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=500&color=00FFEA&center=true&vCenter=true&width=600&height=70&lines=SYSTEM+BOOTING...;%3E+HELLO%2C+THIS+IS+GB-53F8;%3E+CRAFTING+THE+FUTURE;%3E+BLOCKCHAIN+%7C+CLOUD" alt="Typing SVG" />
 </p>
 
 <!-- GLOWING BADGES - Futuristic neon -->
