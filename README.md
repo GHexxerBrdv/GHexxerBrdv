@@ -8,15 +8,15 @@
   <a href="https://www.linkedin.com/in/gaurangbrdv14/">
     <img src="https://img.shields.io/badge/◈_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" />
   </a>
-  <a href="https://twitter.com/yourusername">
+  <!-- <a href="https://twitter.com/yourusername">
     <img src="https://img.shields.io/badge/◈_X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=black" />
-  </a>
+  </a> -->
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/◈_PORTFOLIO-00FFEA?style=for-the-badge&logo=vercel&logoColor=black&labelColor=00FFEA&color=grey" />
   </a>
-  <a href="https://github.com/GHexxerBrdv">
+  <!-- <a href="https://github.com/GHexxerBrdv">
     <img src="https://img.shields.io/badge/◈_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717" />
-  </a>
+  </a> -->
   <a href="mailto:gaurang1415@gmail.com">
     <img src="https://img.shields.io/badge/◈_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" />
   </a>
