@@ -9,10 +9,10 @@
     <img src="https://img.shields.io/badge/◈_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" />
   </a>
   <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/◈_X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2" />
+    <img src="https://img.shields.io/badge/◈_X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=black" />
   </a>
   <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/◈_PORTFOLIO-00FFEA?style=for-the-badge&logo=vercel&logoColor=black&labelColor=00FFEA&color=00FFEA" />
+    <img src="https://img.shields.io/badge/◈_PORTFOLIO-00FFEA?style=for-the-badge&logo=vercel&logoColor=black&labelColor=00FFEA&color=grey" />
   </a>
   <a href="https://github.com/GHexxerBrdv">
     <img src="https://img.shields.io/badge/◈_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717" />
@@ -29,9 +29,9 @@
 
 <!-- STATUS BADGES - Show activity -->
 <p align="center">
-  <img src="https://img.shields.io/badge/⚡_STATUS-CODING_IN_THE_MATRIX-00FF9C?style=flat-square&labelColor=0D1117&color=00FF9C" />
-  <img src="https://img.shields.io/badge/🌐_LOCATION-BLOCKCHAIN-00BFFF?style=flat-square&labelColor=0D1117&color=00BFFF" />
-  <img src="https://img.shields.io/badge/🚀_MISSION-BUILD_THE_FUTURE-FF00AA?style=flat-square&labelColor=0D1117&color=FF00AA" />
+  <img src="https://img.shields.io/badge/⚡_STATUS-CODING_IN_THE_MATRIX-black?style=flat-square&labelColor=0D1117&color=white" />
+  <img src="https://img.shields.io/badge/🌐_LOCATION-BLOCKCHAIN-black?style=flat-square&labelColor=0D1117&color=white" />
+  <img src="https://img.shields.io/badge/🚀_MISSION-BUILD_THE_FUTURE-black?style=flat-square&labelColor=0D1117&color=white" />
 </p>
 
 <!-- QUICK STATS - Glowing cards with minimal text -->
