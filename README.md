@@ -1,54 +1,89 @@
-<div align="center">
-  <h1 style="font-style: italic">
-   I am Gaurang Bharadava - Smart contract engineer & security researcher
-  </h1>
-</div>
+<!-- NEON GLOW HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=500&color=00FFEA&center=true&vCenter=true&width=600&height=70&lines=//+SYSTEM+BOOTED;%3E+HELLO%2C+THIS+IS+GN-53F8;%3E+CRAFTING+THE+FUTURE;%3E+BLOCKCHAIN+%7C+CLOUD" alt="Typing SVG" />
+</p>
 
-<div align="center">
-  <h1 style="font-style: italic">
-   My work will tell you about me
-  </h1>
-</div>
+<!-- GLOWING BADGES - Futuristic neon -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/gaurangbrdv14/">
+    <img src="https://img.shields.io/badge/◈_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" />
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/◈_X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2" />
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/◈_PORTFOLIO-00FFEA?style=for-the-badge&logo=vercel&logoColor=black&labelColor=00FFEA&color=00FFEA" />
+  </a>
+  <a href="https://github.com/GHexxerBrdv">
+    <img src="https://img.shields.io/badge/◈_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717" />
+  </a>
+  <a href="mailto:gaurang1415@gmail.com">
+    <img src="https://img.shields.io/badge/◈_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" />
+  </a>
+</p>
 
-<div align="center">
-  <h1 style="font-style: italic">
-   PROOF OF WORKS
-  </h1>
-</div>
+<!-- MATRIX-STYLE DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
-## Open Source
+<!-- STATUS BADGES - Show activity -->
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡_STATUS-CODING_IN_THE_MATRIX-00FF9C?style=flat-square&labelColor=0D1117&color=00FF9C" />
+  <img src="https://img.shields.io/badge/🌐_LOCATION-BLOCKCHAIN-00BFFF?style=flat-square&labelColor=0D1117&color=00BFFF" />
+  <img src="https://img.shields.io/badge/🚀_MISSION-BUILD_THE_FUTURE-FF00AA?style=flat-square&labelColor=0D1117&color=FF00AA" />
+</p>
 
-| Proof of work                                                                  | Description                                                                                                                                       | Technologies                                  |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| [Compose](https://github.com/Perfect-Abstractions/Compose.git)               |    Compose is a smart contract library that helps developers create smart contract systems using ERC-2535 Diamonds.                                                                               | Solidity, Foundry   
+<!-- QUICK STATS - Glowing cards with minimal text -->
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=solidity,rust,nodejs,github,aws&theme=dark" />
+</p>
 
-## Blockchain & Smart Contract Development
+<!-- GLOWING STATS CARDS -->
+<!-- <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GHexxerBrdv&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFEA&icon_color=00FFEA&text_color=FFFFFF&count_private=true&ring_color=00FFEA" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHexxerBrdv&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFEA&text_color=FFFFFF&langs_count=8" />
+</p> -->
 
-| Proof of work                                                                  | Description                                                                                                                                       | Technologies                                  |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| [Token-0x](https://github.com/GHexxerBrdv/Token-0x.git)        | A Base ERC20 implementation focusing on gas optimised operations and security, developed in inline assembly                      | solidity, Yul, Foundry  
-| [EIP-4337-AA](https://github.com/GHexxerBrdv/EIP-4337-AA.git)        | Implemented smart contract account (Account Abstraction) also known as EIP4337 and tested it.                      | solidity, Foundry, account-abstraction  
-| [Upgradeable-proxy](https://github.com/GHexxerBrdv/Upgrade-Proxy.git)        | Created minimalistic implementation of all the upgreadable proxy pattern for smart contracts (Open Source)                     | solidity, Foundry 
-| [Horse-With-Corn](https://github.com/GHexxerBrdv/Horse-With-Corn.git)               |    Horse-With-Corn, a minimal clone of UniswapV2                                                                               | Solidity, Foundry 
-| [Airdrop](https://github.com/GHexxerBrdv/Airdrop.git)        | An Airdrop smart contract, allow any protocol to airdrop their tokens. allowed users can claim the token. The project is in three version from simple to advanced with integration with automation                       | solidity, Foundry, chainlink-automation 
-| [NFT-Share](https://github.com/GHexxerBrdv/Nft-Share.git)        | NFT-Share is a smart contract project which allow users to mint the nft and nft ower to mint shares of their nft and sell it                       | solidity, Foundry             
-| [Aadhar-Voting](https://github.com/GHexxerBrdv/Aadhar-Voting.git)        | Created A voting system build on evm competible blockchain that allows user to vote openly and in decentralized manner                     | solidity, Foundry  
-| [Dutch-Auction](https://github.com/GHexxerBrdv/Dutch-Auction.git)               |    A Dutch auction smart contract enable user to sell their goods                                                                               | Solidity, Foundry 
+<!-- STREAK WITH GLOW -->
+<!-- <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GHexxerBrdv&theme=dark&hide_border=true&background=0D1117&stroke=00FFEA&ring=00FFEA&fire=00FFEA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFEA&sideLabels=FFFFFF&dates=FFFFFF" />
+</p> -->
 
+<!-- ANIMATED CONTRIBUTION GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GHexxerBrdv&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=00FFEA&line=00FFEA&point=00FFEA&color=FFFFFF" width="100%"/>
+</p>
 
-## Blockchain & Smart Contract Security
+<!-- FEATURED PROJECTS - Holographic cards -->
+<!-- <h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
+  <b style="color: #00FFEA;">PROJECTS // ACTIVE</b>
+</h2>
 
-| Proof of work                                                                  | Description                                                                                                                                       | Technologies                                  |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| [Audit-Reports](https://github.com/GHexxerBrdv/Audit-Reports.git)               |    Smart contract audit reports from competitive audits platforms                                                                               | Solidity, Foundry, slither, aderyn                           |
-| [Ethernaut](https://github.com/GHexxerBrdv/Ethernaut.git)        | Openzeppelin's Ethernaut challenges (Ongoing)                     | solidity, Foundry, openzeppelin   
+<p align="center">
+  <a href="https://github.com/GHexxerBrdv/Stabilizer.git">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GHexxerBrdv&repo=https://github.com/GHexxerBrdv/Stabilizer.git&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFEA&icon_color=00FFEA&text_color=FFFFFF" />
+  </a>
+  <a href="[Repo-2]">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GHexxerBrdv&repo=[Repo-2]&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFEA&icon_color=00FFEA&text_color=FFFFFF" />
+  </a>
+</p> -->
 
-## Rust 
+<!-- GLOWING QUOTE -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%"/>
+</p>
 
-| Proof of work                                                                  | Description                                                                                                                                       | Technologies                                  |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| [Task_Manager](https://github.com/GHexxerBrdv/Task_manager.git)               |    Developed an advace ToDo manager cli tool, that employes user defined data types, error handling, control flow and modules, allows user to add task via command line by only typing commands                                                                               | Rust, serde, colored, clap                           |
-| [Dig](https://github.com/GHexxerBrdv/Dig.git)               |    Dig is a simplified CLI tool that will find the content from the mentioned file and print them                                                                                | Rust, clap, colored, regex                           |
-| [brdv](https://github.com/GHexxerBrdv/brdv.git)               |    brdv is git like tool that will help you to manage your projects (Early stage)                                                                               | Rust, clap                           |
-| [redis_lite](https://github.com/GHexxerBrdv/redis_lite.git)               |    redish_lite is redis like tool that will continuosly accepts the client requests and store data in key value form in local file (Early stage)                                                                              | Rust, serde, tokio                           |
+<!-- FOOTER - NEON MATRIX -->
+<!-- <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&customColorList=0,2,2,5,30" width="100%"/>
+</p> -->
 
+<!-- VISITOR COUNTER - Glowing -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GHexxerBrdv&label=🔮_VISITORS&color=00FFEA&style=flat-square" />
+  <br>
+  <i style="color: #00FFEA;">⚡ // SYSTEMS ONLINE // CODE EXECUTING // ⚡</i>
+</p>
