@@ -11,9 +11,9 @@
   <!-- <a href="https://twitter.com/yourusername">
     <img src="https://img.shields.io/badge/◈_X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=black" />
   </a> -->
-  <a href="https://yourportfolio.com">
+  <!-- <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/◈_PORTFOLIO-00FFEA?style=for-the-badge&logo=vercel&logoColor=black&labelColor=00FFEA&color=grey" />
-  </a>
+  </a> -->
   <!-- <a href="https://github.com/GHexxerBrdv">
     <img src="https://img.shields.io/badge/◈_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717" />
   </a> -->
